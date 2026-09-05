@@ -19,3 +19,15 @@ npm run dev
 - [x] Day 5 — Tests, README polish, deploy
 
 Every stub file in this repo has a comment describing what goes there and which day it belongs to.
+
+## Screenshots
+
+![Connect Gmail / OAuth login screen](Screenshots/screenshot(5).jpeg)
+![Inbox view with sender, keyword, and date filters](Screenshots/screenshot(3).jpeg)
+![Compose view with a drafted email](Screenshots/screenshot(1).jpeg)
+![Email sent confirmation](Screenshots/screenshot(2).jpeg)
+![Mail Assistant replying to an email based on natural language instructions](Screenshots/screenshot(4).jpeg)
+
+## Demo Video
+
+[Watch the demo video](Screenshots/screenshot(1).mp4)
