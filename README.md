@@ -27,6 +27,7 @@ Every stub file in this repo has a comment describing what goes there and which 
 ![Compose view with a drafted email](Screenshots/screenshot(1).jpeg)
 ![Email sent confirmation](Screenshots/screenshot(2).jpeg)
 ![Mail Assistant replying to an email based on natural language instructions](Screenshots/screenshot(4).jpeg)
+![compose mail using AI Assistant](Screenshots/screenshot(6).jpeg)
 
 ## Demo Video
 
