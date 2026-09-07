@@ -1,6 +1,6 @@
 # Nebula Mail
 
-AI-powered mail web app — see `build-guide.md` (shared separately) for the full day-by-day plan.
+AI-powered mail web app  see `build-guide.md` (shared separately) for the full day-by-day plan.
 
 ## Setup
 
@@ -13,8 +13,8 @@ npm run dev
 ### A few things worth knowing before running it locally
 
 - Real-time inbox sync uses **ngrok** to tunnel the Gmail Pub/Sub webhook locally. ngrok's free tier gives a new URL every restart, so you'll need to update the Pub/Sub push subscription's Endpoint URL to match whenever you restart it.
-- The `@copilotkit/*` packages are pinned to `1.4.0` and `openai` is pinned to `4.104.0` — newer versions of both break tool-calling against OpenRouter. Don't upgrade these without testing.
-- The assistant runs on `nvidia/nemotron-3.5-lightning:free` via OpenRouter — this is the model that reliably supports tool calling among the free options tried.
+- The `@copilotkit/*` packages are pinned to `1.4.0` and `openai` is pinned to `4.104.0`  newer versions of both break tool-calling against OpenRouter. Don't upgrade these without testing.
+- The assistant runs on `nvidia/nemotron-3.5-lightning:free` via OpenRouter  this is the model that reliably supports tool calling among the free options tried.
 
 ## Status
 
